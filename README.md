@@ -31,7 +31,7 @@ MGAC-AF follows a systematic pipeline as illustrated below:
 *   **Stage 4:** DAE-based enhancement and Multi-granular view fusion.
 
 **
-
+![image](https://github.com/yyylll/MGAC-AF/edit/main/MGAC-AF-model.jpg)
 ---
 
 ## 📊 Benchmarks
