@@ -35,7 +35,7 @@ MGAC-AF follows a systematic pipeline as illustrated below:
 ---
 
 ## 📊 Benchmarks
-We evaluate MGAC-AF on three major benchmarks. Our model achieves state-of-the-art results, especially on the industrial-scale USPTO-2M dataset.
+We evaluate MGAC-AF on three major benchmarks. Our model achieves state-of-the-art results, especially on the large-scale USPTO-2M dataset.
 
 | Dataset | Metric | MGAC-AF | Best Baseline | Improvement |
 | :--- | :--- | :---: | :---: | :---: |
